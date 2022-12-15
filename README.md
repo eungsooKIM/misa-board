@@ -4,4 +4,4 @@
 주어진 시간내 결과를 내기위해 가장 기초적인 수준의 게시판이지만, CRUD를 restful하게 구현하는 것을 목표하였습니다.
 
 
-## [>시연영상보기](https://www.youtube.com/watch?v=O70-JWWBZEs)
+## [>시연영상](https://www.youtube.com/watch?v=O70-JWWBZEs)
